@@ -7,7 +7,7 @@
 Computer science student at Capital University, Faculty of Computers and Artificial Intelligence, based in Cairo. I clean messy data, analyze it, and turn it into answers a business can act on. I also take freelance data work.
 
 <div align="center">
-  <img src="assets/numbers.svg" alt="3,269 orders analyzed, 16 SQL queries, 4 projects" width="100%">
+  <img src="assets/numbers.svg" alt="3,269 orders analyzed, 16 SQL queries, 13 public repos" width="100%">
 </div>
 
 ## What I work with
