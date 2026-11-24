@@ -6,6 +6,8 @@
 
 Computer science student at Capital University, Faculty of Computers and Artificial Intelligence, based in Cairo. I clean messy data, analyze it, and turn it into answers a business can act on. I also take freelance data work.
 
+Portfolio: https://hassan3443.github.io/
+
 <div align="center">
   <img src="assets/numbers.svg" alt="3,269 orders analyzed, 16 SQL queries, 12 public repos" width="100%">
 </div>
@@ -22,6 +24,7 @@ Computer science student at Capital University, Faculty of Computers and Artific
 - [CPU Scheduling Simulator](https://github.com/Hassan3443/cpu-scheduling-project): Round Robin vs Preemptive Priority scheduling with animated Gantt charts and a [live demo](https://hassan3443.github.io/cpu-scheduling-project/).
 
 ## Work with me
+Portfolio: https://hassan3443.github.io/  
 I offer data cleaning and analysis on Fiverr and Mostaql.
 LinkedIn: https://www.linkedin.com/in/hassan1000
 
