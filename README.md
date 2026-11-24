@@ -1,6 +1,6 @@
 # Hi, I'm Hassan Ashraf
 
-Computer science student at Capital University for Applied Sciences, based in Cairo. I clean messy data, analyze it, and turn it into answers a business can act on. I also take freelance data work.
+Computer science student at Capital University, Faculty of Computers and Artificial Intelligence, based in Cairo. I clean messy data, analyze it, and turn it into answers a business can act on. I also take freelance data work.
 
 ## What I work with
 Python, Pandas, Matplotlib, SQL (SQLite), Git and GitHub Actions for tests and CI.
