@@ -18,6 +18,8 @@ Computer science student at Capital University, Faculty of Computers and Artific
 - [SQL Business Analytics](https://github.com/Hassan3443/sql-business-analytics): a SQLite sales database with 16 queries, including window functions, an ERD and tests.
 - [Data Cleaning Pipeline](https://github.com/Hassan3443/data-cleaning-pipeline): a reusable Pandas pipeline that turns a raw CSV into a clean dataset and writes a report of every fix.
 - [Library Management System](https://github.com/Hassan3443/library-management-system): university project with requirements, UML and DFD diagrams, and a [live demo](https://hassan3443.github.io/library-management-system/).
+- [Customer Churn Prediction Pipeline](https://github.com/Hassan3443/Customer-Churn-Prediction-Pipeline): end-to-end churn prediction on about 1M telecom customer records, with LightGBM, SQL Server, a Streamlit dashboard and Power BI.
+- [CPU Scheduling Simulator](https://github.com/Hassan3443/cpu-scheduling-project): Round Robin vs Preemptive Priority scheduling with animated Gantt charts and a [live demo](https://hassan3443.github.io/cpu-scheduling-project/).
 
 ## Work with me
 I offer data cleaning and analysis on Fiverr and Mostaql.
