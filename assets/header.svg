@@ -1,0 +1,35 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="900" height="240" viewBox="0 0 900 240">
+<defs><linearGradient id="bg" x1="0" y1="0" x2="1" y2="1"><stop offset="0" stop-color="#0f2027"/><stop offset="0.5" stop-color="#203a43"/><stop offset="1" stop-color="#2c5364"/></linearGradient>
+<linearGradient id="w1" x1="0" x2="1"><stop offset="0" stop-color="#38bdf8" stop-opacity=".35"/><stop offset="1" stop-color="#22d3ee" stop-opacity=".05"/></linearGradient>
+<clipPath id="r"><rect width="900" height="240" rx="16"/></clipPath></defs>
+<style>
+.name{font:700 48px 'Segoe UI',Arial,sans-serif;fill:#fff}
+.sub{font:500 26px 'Courier New',monospace;fill:#7dd3fc}
+.cur{animation:b 1s infinite}@keyframes b{50%{opacity:0}}
+.wv1{animation:m1 9s linear infinite}.wv2{animation:m1 14s linear infinite reverse}
+@keyframes m1{from{transform:translateX(0)}to{transform:translateX(-450px)}}
+.dot{animation:fl 6s ease-in-out infinite}@keyframes fl{50%{transform:translateY(-14px)}}
+.nm{animation:fi 1.2s ease-out both}@keyframes fi{from{opacity:0;transform:translateY(12px)}to{opacity:1;transform:none}}
+
+.l0{opacity:0;animation:s0 12s infinite}
+@keyframes s0{0%{opacity:0}1.0%{opacity:1}30.0%{opacity:1}33.0%{opacity:0}100%{opacity:0}}
+.c0{animation:w0 12s infinite steps(28,end)}
+@keyframes w0{0%{width:0}1.0%{width:0}17.0%{width:560px}33.0%{width:560px}100%{width:0}}
+.l1{opacity:0;animation:s1 12s infinite}
+@keyframes s1{0%{opacity:0}34.3%{opacity:1}63.3%{opacity:1}66.3%{opacity:0}100%{opacity:0}}
+.c1{animation:w1 12s infinite steps(28,end)}
+@keyframes w1{0%{width:0}34.3%{width:0}50.3%{width:560px}66.3%{width:560px}100%{width:0}}
+.l2{opacity:0;animation:s2 12s infinite}
+@keyframes s2{0%{opacity:0}67.7%{opacity:1}96.7%{opacity:1}99.7%{opacity:0}100%{opacity:0}}
+.c2{animation:w2 12s infinite steps(28,end)}
+@keyframes w2{0%{width:0}67.7%{width:0}83.7%{width:560px}99.7%{width:560px}100%{width:0}}
+</style>
+<g clip-path="url(#r)"><rect width="900" height="240" fill="url(#bg)"/>
+<g class="wv1"><path d="M0 190 Q112 150 225 190 T450 190 T675 190 T900 190 T1125 190 T1350 190 V240 H0Z" fill="url(#w1)"/></g>
+<g class="wv2"><path d="M0 205 Q112 175 225 205 T450 205 T675 205 T900 205 T1125 205 T1350 205 V240 H0Z" fill="url(#w1)"/></g>
+<circle class="dot" cx="760" cy="60" r="6" fill="#38bdf8" opacity=".6"/><circle class="dot" style="animation-delay:-2s" cx="820" cy="110" r="4" fill="#22d3ee" opacity=".6"/><circle class="dot" style="animation-delay:-4s" cx="700" cy="120" r="3" fill="#a5f3fc" opacity=".6"/>
+<text x="60" y="95" class="name nm">Hassan Ashraf</text>
+<g class="l0"><clipPath id="cp0"><rect x="60" y="120" height="50" class="c0"/></clipPath><text x="60" y="152" clip-path="url(#cp0)" class="sub">Data cleaning</text></g>
+<g class="l1"><clipPath id="cp1"><rect x="60" y="120" height="50" class="c1"/></clipPath><text x="60" y="152" clip-path="url(#cp1)" class="sub">Analysis with Python &amp; SQL</text></g>
+<g class="l2"><clipPath id="cp2"><rect x="60" y="120" height="50" class="c2"/></clipPath><text x="60" y="152" clip-path="url(#cp2)" class="sub">Messy data into answers</text></g>
+</g></svg>
