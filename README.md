@@ -1,9 +1,17 @@
+<div align="center">
+  <img src="assets/header.svg" alt="Hassan Ashraf" width="100%">
+</div>
+
 # Hi, I'm Hassan Ashraf
 
 Computer science student at Capital University, Faculty of Computers and Artificial Intelligence, based in Cairo. I clean messy data, analyze it, and turn it into answers a business can act on. I also take freelance data work.
 
+<div align="center">
+  <img src="assets/numbers.svg" alt="3,269 orders analyzed, 16 SQL queries, 4 projects" width="100%">
+</div>
+
 ## What I work with
-Python, Pandas, Matplotlib, SQL (SQLite), Git and GitHub Actions for tests and CI.
+<img src="assets/skills.svg" alt="Python, Pandas, Matplotlib, SQL (SQLite), Git and GitHub Actions for tests and CI">
 
 ## Selected projects
 - [Sales Data Analysis](https://github.com/Hassan3443/sales-data-analysis): two years of retail sales (3,269 orders). Revenue trends, RFM customer segments, cohort retention and a Pareto analysis.
@@ -14,3 +22,5 @@ Python, Pandas, Matplotlib, SQL (SQLite), Git and GitHub Actions for tests and C
 ## Work with me
 I offer data cleaning and analysis on Fiverr and Mostaql.
 LinkedIn: https://www.linkedin.com/in/hassan1000
+
+<img src="assets/footer.svg" alt="" width="100%">
