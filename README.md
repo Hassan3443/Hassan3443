@@ -15,8 +15,18 @@ Portfolio: https://hassan3443.github.io/
 ## What I work with
 <img src="assets/skills.svg" alt="Python, Pandas, Matplotlib, SQL (SQLite), Git and GitHub Actions for tests and CI">
 
-## Selected projects
-Each project below has a live demo you can open in the browser.
+## Featured
+
+<table>
+<tr>
+<td width="33%" valign="top"><a href="https://hassan3443.github.io/sales-data-analysis/"><img src="assets/thumb_sda.png" width="100%" alt="Sales Data Analysis live demo"></a><br><b><a href="https://github.com/Hassan3443/sales-data-analysis">Sales Data Analysis</a></b><br>3,269 orders. Revenue, RFM segments, cohorts, Pareto, and a forecast backtest: seasonal naive wins at 12.2% rolling MAPE.</td>
+<td width="33%" valign="top"><a href="https://hassan3443.github.io/Customer-Churn-Prediction-Pipeline/"><img src="assets/thumb_churn.png" width="100%" alt="Customer churn explorer live demo"></a><br><b><a href="https://github.com/Hassan3443/Customer-Churn-Prediction-Pipeline">Customer Churn Pipeline</a></b><br>LightGBM on about 1M records. Honest sample evaluation (AUC 0.706, calibrated) and in-browser what-if scoring.</td>
+<td width="33%" valign="top"><a href="https://hassan3443.github.io/data-cleaning-pipeline/"><img src="assets/thumb_dcp.png" width="100%" alt="Data cleaning pipeline live demo"></a><br><b><a href="https://github.com/Hassan3443/data-cleaning-pipeline">Data Cleaning Pipeline</a></b><br>Logs every fix. Flags 124 of 301 slash dates as day-first or month-first ambiguous.</td>
+</tr>
+</table>
+
+## All projects
+Each project below has a live demo you can open in the browser. 8 of the 9 repos have automated tests and a GitHub Actions workflow (the Library Management System is a documentation project).
 
 | Project | What it does | Live demo |
 |---|---|---|
